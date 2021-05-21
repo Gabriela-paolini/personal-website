@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+div{
+  display: flex;
+  justify-content:space-between;
+margin-right: 1rem;
+}
+.my-photo{
+  border-radius: 50%;
+  width: 150px;
+}
+hr{
+  height: 3px ;
+  background-color:rgb(77, 64, 109);
+  border: 0;
+}
+body{
+  background-color: rgb(228, 227, 227);
+  font-family:Arial, Helvetica, sans-serif;
+ }
+h1{
+  color: rgb(131, 11, 85);
+  }
+h2{
+  color: rgb(177, 82, 134);
+  font-weight:100;
+  font-size:larger;
+}
+h3{
+ color: rgb(131, 11, 85);
+}
+h4{
+  color: rgb(28, 28, 78);
+}
+p{
+  color: rgb(28, 28, 78) ;
+}
+li{
+  color: rgb(28, 28, 78);
+}
